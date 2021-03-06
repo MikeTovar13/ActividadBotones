@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Actividad Botones</string>
+    <string name="button_on">Encendido</string>
+    <string name="button_off">Apagado</string>
+    <string name="text_1">Bienvenido</string>
+    <string name="text_2">Soy una aplicación hecha para entretenerte un rato. ¡Hagamoslo!</string>
+    <string name="text_editable">Cuando escribas un texto oprime un botón, se vera tu texto aquí y de fondo el color del botón que oprimiste.</string>
+    <string name="hint_default">¡Intenta escribir algo!</string>
+    <string name="azul">¿Intentas azul?</string>
+    <string name="rojo">¿Quieres rojo?</string>
+    <string name="naranja">¿Prefieres naranja?</string>
+    <string name="negro">¿Te gusta el negro?</string>
+    <string name="verde">¿O mejor verde?</string>
+    <string name="escribir_algo">Debes escribir algo para ver el cambio</string>
+    <string name="probar_color">¿Pruebas otro color?</string>
+    <string name="intentar">¿Lo intentas de nuevo?</string>
+</resources>
